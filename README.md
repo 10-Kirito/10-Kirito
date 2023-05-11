@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=10-Kirito&show_icons=true&theme=gotham" alt="10-Kirito" />
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=10-Kirito&show_icons=true&theme=gotham" alt="10-Kirito" />
 
   <br>
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
